@@ -72,7 +72,7 @@ p {
 /* Title Section */
 
 #title {
-  background-color: #ff4c68;
+  background-color: #519259;
   color: #fff;
   text-align: left;
 }
@@ -105,12 +105,12 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #A6CF98;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #519259;
 }
 
 /* Testimonial Section */
